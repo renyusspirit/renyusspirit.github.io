@@ -95,26 +95,26 @@ var epub5 = document.getElementById('epub5');
 // 为按钮添加点击事件监听器
 epub5.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
-    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+    window.location.href = './The General Principles of Renyu\'s Thought.epub';
 });
 var epub6 = document.getElementById('epub6');
 
 // 为按钮添加点击事件监听器
 epub6.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
-    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+    window.location.href = './Les Principes Généraux de la Pensée de Renyu.epub';
 });
 var epub7 = document.getElementById('epub7');
 
 // 为按钮添加点击事件监听器
 epub7.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
-    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+    window.location.href = './La Ĝeneralaj Principoj de la Pensado de Renyu.epub';
 });
 var epub8 = document.getElementById('epub8');
 
 // 为按钮添加点击事件监听器
 epub8.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
-    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+    window.location.href = './精領光芒普照時.epub';
 });
