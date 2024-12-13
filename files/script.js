@@ -118,3 +118,10 @@ epub8.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
     window.location.href = './精領光芒普照時.epub';
 });
+var gb = document.getElementById('gb');
+
+// 为按钮添加点击事件监听器
+gb.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = 'https://renyus-spirit-promoting-associat.gitbook.io/rspa/';
+});
