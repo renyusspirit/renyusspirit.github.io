@@ -63,3 +63,58 @@ epub2.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
     window.location.href = './仁宇精神推廣策進會會員發展行事規範.epub';
 });
+
+var pdf3 = document.getElementById('pdf3');
+
+pdf3.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇精神推廣策進會總章程（西貢七年修訂）.pdf';
+});
+var epub3 = document.getElementById('epub3');
+
+// 为按钮添加点击事件监听器
+epub3.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇精神推廣策進會總章程（西貢七年修訂）.epub';
+});
+var pdf4 = document.getElementById('pdf4');
+// 为按钮添加点击事件监听器
+pdf4.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇思想總綱.pdf';
+});
+var epub4 = document.getElementById('epub4');
+
+// 为按钮添加点击事件监听器
+epub4.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+});
+var epub5 = document.getElementById('epub5');
+
+// 为按钮添加点击事件监听器
+epub5.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+});
+var epub6 = document.getElementById('epub6');
+
+// 为按钮添加点击事件监听器
+epub6.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+});
+var epub7 = document.getElementById('epub7');
+
+// 为按钮添加点击事件监听器
+epub7.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+});
+var epub8 = document.getElementById('epub8');
+
+// 为按钮添加点击事件监听器
+epub8.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇思想總綱（西貢七年修訂）.epub';
+});
