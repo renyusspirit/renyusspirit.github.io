@@ -125,6 +125,7 @@ gb.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
     window.location.href = 'https://renyus-spirit-promoting-associat.gitbook.io/rspa/';
 });
+
 var pdf9 = document.getElementById('pdf9');
 
 // 为按钮添加点击事件监听器
@@ -138,4 +139,34 @@ var epub9 = document.getElementById('epub9');
 epub9.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
     window.location.href = './仁宇精神推廣策進會解散行事規範.epub';
+});
+
+var pdf10 = document.getElementById('pdf10');
+
+// 为按钮添加点击事件监听器
+pdf10.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇精神推廣策進會行事規範章程.pdf';
+});
+var epub10 = document.getElementById('epub10');
+
+// 为按钮添加点击事件监听器
+epub10.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇精神推廣策進會行事規範章程.epub';
+});
+
+var pdf11 = document.getElementById('pdf11');
+
+// 为按钮添加点击事件监听器
+pdf11.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇精神推廣策進會資訊科技與資訊安全章程（臨時施行）.pdf';
+});
+var epub11 = document.getElementById('epub11');
+
+// 为按钮添加点击事件监听器
+epub11.addEventListener('click', function() {
+    // 在这里编写您希望在点击按钮时执行的代码
+    window.location.href = './仁宇精神推廣策進會資訊科技與資訊安全章程（臨時施行）.epub';
 });
