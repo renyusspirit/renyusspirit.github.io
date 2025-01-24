@@ -34,18 +34,11 @@ document.getElementById('pageTitle').addEventListener('click', function(event) {
     window.location.href = '/';
 });
 
-var actionButton = document.getElementById('actionButton');
+
+var applyfor = document.getElementById('applyfor');
 
 // 为按钮添加点击事件监听器
-actionButton.addEventListener('click', function() {
-    // 在这里编写您希望在点击按钮时执行的代码
-    window.location.href = './structure';
-});
-
-var apply = document.getElementById('apply');
-
-// 为按钮添加点击事件监听器
-apply.addEventListener('click', function() {
+applyfor.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
     window.location.href = 'https://forms.office.com/r/SdbWJB27T9';
 });
